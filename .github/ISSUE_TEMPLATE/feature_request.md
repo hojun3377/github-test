@@ -1,16 +1,7 @@
 ---
 name: Feature request
-about: 기능 구현
-title: "[BE | FE]"
-labels: enhancement
-assignees: ''
-
----
-
----
-name: "👨🏻‍💻 Feature request"
 about: Feature 작업에 대해 작성해주세요.
-title: "[BE/FE] "
+title: "[BE | FE]"
 labels: enhancement
 assignees: ''
 

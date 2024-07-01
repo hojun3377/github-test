@@ -1,11 +1,11 @@
----
-name: Pull Request
-about: 프로젝트에 대한 코드 변경 사항을 작성합니다.
-title: "[PR] "
-labels: ''
-assignees: ''
+## 🔧 Options
 
----
+- title과 labelm, assignees에 대한 설정을 추가해주세요.
+- 해당 설정 후 Options를 지워주세요.
+
+- title: [PR]
+- labels: document | front-end | back-end | enhancement | fix
+- assignees: 
 
 ## ✨ Summary
 
