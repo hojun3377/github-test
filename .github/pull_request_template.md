@@ -1,9 +1,10 @@
 ---
 name: Pull Request
 about: 프로젝트에 대한 코드 변경 사항을 작성합니다.
-title: '[PR] '
+title: "[PR] "
 labels: ''
 assignees: ''
+
 ---
 
 ## ✨ Summary
